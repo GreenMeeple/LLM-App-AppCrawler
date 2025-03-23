@@ -1,0 +1,4 @@
+google_play_scraper
+pymongo
+requests
+search_input
